@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gopi-Subedi
+- 👋 Hi, I’m Gopi Subedi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working on ReactJs
 - 📫 How to reach me ...
