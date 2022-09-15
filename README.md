@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gopi Subedi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently working on ReactJs
+- 🌱 I’m currently working on React.js
 - 📫 How to reach me ...
 - contact info: 9864220453
 - email: gopi.subedi09@gmail.com
