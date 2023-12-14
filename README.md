@@ -1,11 +1,10 @@
-- 👋 Hi, I’m Gopi Subedi
+- 👋 Hi, I’m Sabal Subedi
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working on React.js
 - 📫 How to reach me ...
 - contact info: 9864220453
-- email: gopi.subedi09@gmail.com
-- website: https://myportfolio-778a5.web.app/
-- LinkedIn: https://www.linkedin.com/in/gopi-subedi-a8b948213/
+- email: subedisabal00@gmail.com
+- LinkedIn: https://www.linkedin.com/in/subedi-sabal/
 
 
 <!---
