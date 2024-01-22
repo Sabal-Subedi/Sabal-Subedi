@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently working on React.js
 - 📫 How to reach me ...
-- contact info: 9864220453
+- contact info: 208-760-2489
 - email: subedisabal00@gmail.com
 - LinkedIn: https://www.linkedin.com/in/subedi-sabal/
 
