@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Sabal Subedi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently working on React.js
+- Web Developer | ReactJS | AI & Machine Learning Enthusiast
+- 👀 I’m interested in Full-Stack Web Applicaton Development and AI/ML
+- 🌱 I’m currently working on REDUX [click here](https://redux.portneuf.cose.isu.edu/)
 - 📫 How to reach me ...
 - contact info: 208-760-2489
 - email: subedisabal00@gmail.com
